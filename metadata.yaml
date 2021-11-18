@@ -1,0 +1,36 @@
+_repo: Life-and-Remarkable-Adventures-of-Israel-R-Potter_66684
+_version: 0.0.1
+contributor:
+  commentator:
+    agent_name: Kriegel, Leonard
+    gutenberg_agent_id: '53912'
+    url: http://www.gutenberg.org/2009/agents/53912
+creator:
+  authors:
+  - agent_name: Potter, Israel R.
+    gutenberg_agent_id: '53911'
+    url: http://www.gutenberg.org/2009/agents/53911
+  - agent_name: Melville, Herman
+    alias: Melville, Hermann
+    birthdate: 1819
+    deathdate: 1891
+    gutenberg_agent_id: '9'
+    url: http://www.gutenberg.org/2009/agents/9
+    wikipedia: https://en.wikipedia.org/wiki/Herman_Melville
+description: ''
+gutenberg_issued: '2021-11-07'
+identifiers:
+  gutenberg: '66684'
+language: en
+pgterms:marc905: 20210502082242potter
+pgterms:marc906: '1962'
+pgterms:marc907: US
+production_note: Steve Mattern and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: United States :Corinth Books,1962.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Life and Remarkable Adventures of Israel R. Potter
+url: http://www.gutenberg.org/ebooks/66684

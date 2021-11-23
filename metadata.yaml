@@ -5,6 +5,9 @@ contributor:
     agent_name: Kriegel, Leonard
     gutenberg_agent_id: '53912'
     url: http://www.gutenberg.org/2009/agents/53912
+covers:
+- cover_type: archival
+  image_path: 66684-h/images/back_cover.jpg
 creator:
   authors:
   - agent_name: Potter, Israel R.
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9
     wikipedia: https://en.wikipedia.org/wiki/Herman_Melville
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66684#Life-and-Remarkable-Adventures-of-Israel-R-Potter
 gutenberg_issued: '2021-11-07'
 identifiers:
   gutenberg: '66684'
